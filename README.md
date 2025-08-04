@@ -1,8 +1,8 @@
 
 <div align="center">
+<img src="icon.png" alt="TxEditor Icon" width="120" />
   <h1 style="font-family:Poppins,sans-serif; color:#2196f3;">TxEditor User Guide</h1>
   <p style="font-size:1.2em; color:#f0f0f0;">Welcome to <b>TxEditor</b>, a modern and easy-to-use text editor for Windows.</p>
-    <img src="../icon.png" alt="TxEditor Icon" width="120" />
   <img src="sample%20(1).png" alt="Editor Screenshot 1" width="350" />
   <img src="sample%20(2).png" alt="Editor Screenshot 2" width="350" />
 </div>
