@@ -19,9 +19,9 @@
 
 <h2 style="color:#ffa726;">Getting Started</h2>
 <ol>
-  <li>Download and install TxEditor from the official source.</li>
-  <li>Launch the application.</li>
-  <li>Drag and drop any text file into the editor to start editing.</li>
+<li>Download and install TxEditor from the <a href="https://github.com/xanto/TxEditor/releases" target="_blank">GitHub Releases page</a>.</li>
+<li>Launch the application.</li>
+<li>Drag and drop any text file into the editor to start editing.</li>
 </ol>
 
 <h2 style="color:#ffa726;">Keyboard Shortcuts</h2>
@@ -33,9 +33,6 @@
   <tr><td><b>usercmdexit</b></td><td>Exit the editor</td></tr>
   <tr><td><b>Esc</b></td><td>Close the help guide</td></tr>
 </table>
-
-<h2 style="color:#ffa726;">Support</h2>
-<p>If you encounter any issues, please contact support or visit the <a href="https://github.com/Samiulshanto/TxEditor">official website</a> for help.</p>
 
 <hr/>
 
